@@ -1,0 +1,27 @@
+.movie-container{
+    width: 80%;
+    margin: auto;
+}
+.movie-list{
+    width: 70%;
+    margin: auto;
+    border-style: solid;
+
+}
+.movie-card{
+    width: 50%;
+    margin: auto;
+}
+img{
+    width: 50%;
+    margin: auto;
+}
+.movie-card{
+    width: 80%;
+    margin: auto;
+}
+.tools{
+    width: 50%;
+    margin: auto;
+    padding-bottom: 5%;
+}
