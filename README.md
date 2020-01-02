@@ -1,7 +1,10 @@
 # Movie Lister
 
-## Focus
+## Description
 
+Lists movies by genre. Full CRUD on all movie objects
+
+Focus:
 - DOM manipulation
 - AJAX Requests using Fetch
 - Problem Solving in JavaScript
